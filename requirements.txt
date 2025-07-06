@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+#数据验证
+pydantic
